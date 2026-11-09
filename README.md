@@ -2,7 +2,7 @@
 
 Lumexi ist eine Android-Lern-App für Programmier-Anfänger. Kurze Lektionen auf Deutsch (mit englischer Übersetzung), echte Code-Übungen und ein Lernpfad wie in einem Spiel. Das Maskottchen Pixel, ein Fuchs, begleitet durch die App.
 
-Website: [lumexi.de](https://lumexi.de)
+Website: [lumexi.de](https://lumexi.de) · Datenschutz: [lumexi-legal](https://github.com/heatwaves0815/lumexi-legal)
 
 > Dieses Repository ist ein Schaufenster. Der Quellcode der App ist privat.
 
@@ -18,7 +18,7 @@ Website: [lumexi.de](https://lumexi.de)
 - **Motivation**: XP, Level, Tages-Streak mit Streak-Freeze, Achievements, Quests, Wochen-Challenge.
 - **Klausur-Simulator** mit Timer, Zufallsfragen und Auswertung.
 - **Lernprofile** für mehrere Personen an einem Gerät, Backup und Wiederherstellung, Vorlesen auf Deutsch und Englisch.
-- **Offline nutzbar**: Lektionen, Übungen und Fortschritt liegen lokal auf dem Gerät.
+- **Offline nutzbar**: Lektionen, Übungen und Fortschritt liegen lokal auf dem Gerät. Nur der KI-Tutor braucht Internet.
 
 ## Screenshots
 
